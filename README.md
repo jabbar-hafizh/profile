@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![alt text](https://github.com/jabbar-hafizh/profile/blob/main/CV.jpg?raw=true)
+![alt text](https://github.com/jabbar-hafizh/profile/blob/main/CV Abdul Jabbar Hafizh-1.jpg?raw=true)
 
 You can use the [editor on GitHub](https://github.com/jabbar-hafizh/profile/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
