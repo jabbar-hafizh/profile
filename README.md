@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![alt text](https://drive.google.com/file/d/1X6h5lD8pUEcNARKVwEPXUWiAc3Fd2-pq/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1aODoRIIG7N4YFXvfHrWvuI0I3SY_N5ag/view?usp=sharing)
 
 You can use the [editor on GitHub](https://github.com/jabbar-hafizh/profile/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
